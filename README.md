@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=160&section=header&text=CreamDevelopers&fontSize=56&fontColor=F2C46D&fontAlignY=45&desc=Building%20Discord%20bots,%20web%20apps%20and%20infrastructure&descSize=16&descAlignY=72&descAlign=50" alt="CreamDevelopers" width="100%" />
-</p>
-
 <p align="center">
   <a href="https://www.creamgroup.net">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=F2C46D&center=true&vCenter=true&width=600&lines=Discord+Bots+%2F+Web+Applications;Minecraft+Bedrock+Addons;Self-hosted+Infrastructure;Part+of+CreamNetworksGroup" alt="Typing SVG" />
