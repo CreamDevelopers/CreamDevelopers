@@ -64,8 +64,3 @@ Our products share a simple, consistent design language: flat UI, a single accen
 <p align="center">
   Questions, feedback, and bug reports are always welcome.
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=60&section=footer&text=creamdev.org&fontSize=18&fontColor=F2C46D" alt="Footer" width="100%" />
-</p>
